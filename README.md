@@ -1,7 +1,7 @@
 # coppee_coffee_shop
 
 ## Overview of my project.
-![Website](https://mrgenius18.github.io/coppee_coffee_shop/)
+https://mrgenius18.github.io/coppee_coffee_shop/
 
 
 # COPPEE Coffee Shop
